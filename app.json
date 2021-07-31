@@ -1,0 +1,11 @@
+{
+  "name": "Telegram Quran Reader Bot",
+  "description": "Telegram Quran Reader Bot telegram open source"
+  "repository": "https://github.com/Achu2234/TelegramQuranReader",
+  "env": {
+    "TOKEN": {
+      "description": "Masukan Bot Token dari @BotFather",
+      "required": true
+    }
+  }
+}
