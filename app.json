@@ -1,10 +1,11 @@
 {
   "name": "Telegram Quran Reader Bot",
-  "description": "Telegram Quran Reader Bot telegram open source"
-  "repository": "https://github.com/kenkannih/Al-Qur-an",
+  "description": "A Telegram Bot That Help To Read Quran without closing Telegram",
+  "logo": "https://telegra.ph/file/38f2476dd1fad56334403.jpg",
+  "repository": "https://github.com/Achu2234/TelegramQuranReader",
   "env": {
     "TOKEN": {
-      "description": "Masukan Bot Token dari @BotFather",
+      "description": "Enter Bot Token from @BotFather",
       "required": true
     }
   }
