@@ -2,7 +2,7 @@
 
 A Telegram Bot That Help To Read Quran without closing Telegram
 
-### Devs
+### Dev
 
 [Achu Biju](https://t.me/AmiFutami)
 
