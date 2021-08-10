@@ -5,6 +5,7 @@ A Telegram Bot That Help To Read Quran without closing Telegram
 ### Dev
 
 [Achu Biju](https://t.me/AmiFutami)
+[ken kansaja](https://github.com/kenkansaja) For Indo Vr of The bot
 
 
 
@@ -18,7 +19,7 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 # License
 ```
 TelegramQuranReader, An Telegram Bot Project
-Copyright (c) 2021  Achu Biju <https://github.com/Achu2234> 
+Copyright (c) 2021  Achu Biju <https://github.com/Achu2234> And kenkan saja
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -36,4 +37,9 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 # Support 
 <a href="https://t.me/safothebot"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/AsmSafone"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+# Note
+This Is English Vr of Al-Qur'an Indo By KEN KAN 
+
+
 
